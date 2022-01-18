@@ -12,4 +12,7 @@ td {
 
 th {text-align: left}
 
-p {width: 300px;}
+p {
+	text-align:justify ;
+	width: 300px;
+}
