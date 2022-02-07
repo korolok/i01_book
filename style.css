@@ -1,2 +1,4 @@
-.odd {color: red;}
-.odd1 { color: green; }
+.eee, .zzz {line-height: 1.5;
+			font-family: Arial;}
+.zzz {	font-size: 30px;}
+.eee {	font-size: 20px;}
